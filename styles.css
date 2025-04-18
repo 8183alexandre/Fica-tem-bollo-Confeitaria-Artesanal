@@ -121,7 +121,7 @@ html::-webkit-scrollbar-thumb{
     padding: 4rem;
 }
 .home .homeContent h2{
-    font-size: 9rem;
+    font-size: 8rem;
     font-weight: bolder;
     margin-bottom: 2rem;
     line-height: 7rem;
@@ -138,7 +138,7 @@ html::-webkit-scrollbar-thumb{
 }
 .home .homeContent .home-btn button{
     font-size: 1.8rem;
-    background-color: var(--black);
+    background-color: var(--white);
     color: var(--white);
     border-radius: .7rem;
     padding: .7rem 2.4rem;
